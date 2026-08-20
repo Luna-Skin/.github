@@ -1,8 +1,15 @@
-# LunaSkin 🌙
-> LikeLion Hackathon Project
-> 26.07.21 ~ 26.08.21
+# 🌙 LunaSkin
+생리 주기와 피부 사진을 기반으로, AI가 오늘의 피부 상태를 분석하고 그에 맞는 케어 솔루션과 제품을 추천하는 여성 맞춤형 스킨케어 서비스입니다.
 
-(IR DECK 자리)
+## 🚀 Deployment
+🌐 LunaSkin 서비스를 직접 만나보세요! [LunaSkin 바로가기 →](https://lunaskin-kiki.netlify.app)
+
+<br>
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/fe1edca9-00b4-4f66-a8af-0221168b85c3" />
+
+
+(추가적인 IR DECK 자리)
 
 <br> 
 

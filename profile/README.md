@@ -29,4 +29,7 @@
 <br>
 
 ## ⚙️ System Architecture
-(사진)
+
+<img width="800" alt="스크린샷 2026-08-21 오전 1 17 39" src="https://github.com/user-attachments/assets/44b7d036-c5b0-40a9-8b3e-f74ecd2885f1" />
+
+
